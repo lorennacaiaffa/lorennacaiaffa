@@ -11,7 +11,7 @@ I'm a technology student and I want to be better every day!
 <p align="left">
 <a href="https://twitter.com/@lorennacaiaffa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lorennacaiaffa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lorenna-caiaffa-31a6b022a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lorenna-caiaffa-31a6b022a" height="30" width="40" /></a>
-<a href="https://instagram.com/@ladycff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ladycff" height="30" width="40" /></a>
+<a href="https://instagram.com/@ladycff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/ladycff" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools ♡ :</h2>
