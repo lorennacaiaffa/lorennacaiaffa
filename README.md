@@ -19,4 +19,4 @@ I'm a technology student and I want to be better every day!
 
 ## My Statistics Card ♡
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=jolly)
