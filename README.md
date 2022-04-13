@@ -1,4 +1,4 @@
-![Logo Inicial](https://blog.mxcursos.com/wp-content/uploads/2017/04/front-end-ou-back-end-entenda-as-diferencas-e-descubra-o-seu-perfil.png)
+![Logo Inicial](https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif)
 
 
 # Thanks for visiting! Welcome ♡
