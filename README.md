@@ -20,6 +20,7 @@ I'm a technology student and I want to be better every day!
 ## My Statistics Card ♡
 
 ![Lorenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorennacaiaffa&show_icons=true&theme=tokyonight)
+[![Lorenna's Github stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorennacaiaffa)](https://github.com/lorennacaiaffa/github-readme-stats)
 
 
 
