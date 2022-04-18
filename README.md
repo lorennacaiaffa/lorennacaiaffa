@@ -21,9 +21,9 @@ I'm a technology student and I want to be better every day!
 
 ![Lorenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorennacaiaffa&show_icons=true&theme=tokyonight)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorennacaiaffa&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/lorennacaiaffa/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorennaciaffa&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/ ?username=lorennacaiaffa&langs_count=&show_icons=true&theme=tokyonight )](https://github.com/lorennacaiaffa/github-readme- Estatísticas)
-
+ 
 
 
 
