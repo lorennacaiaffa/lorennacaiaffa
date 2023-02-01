@@ -3,7 +3,7 @@
 
 # Thanks for visiting! Welcome ♡
 
-👾 Hello! Is everything ok? My name's Lorenna Caiaffa, I'm 23 years old and I'm working to achieve my goals and dreams! 
+👾 Hello! Is everything ok? My name's Lorenna Caiaffa, I'm 24 years old and I'm working to achieve my goals and dreams! 
 I'm a technology student and I want to be better every day!
 
 ## My Social Networks ♡
