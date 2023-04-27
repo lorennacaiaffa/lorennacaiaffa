@@ -1,4 +1,4 @@
-![Logo Inicial](https://blog.mxcursos.com/wp-content/uploads/2017/04/front-end-ou-back-end-entenda-as-diferencas-e-descubra-o-seu-perfil.png)
+![Logo Inicial](https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif)
 
 
 # Thanks for visiting! Welcome ♡
