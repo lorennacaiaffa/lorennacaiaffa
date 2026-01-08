@@ -1,10 +1,18 @@
 ![Logo Inicial](https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif)
 
 
-# Thanks for visiting! Welcome ♡
+# Welcome to my profile ♡
 
-👾 Hello! Is everything ok? My name's Lorenna Caiaffa, I'm 27 years old and I'm working to achieve my goals and dreams! 
-I'm a technology student and I want to be better every day!
+👾 Hello! Is everything ok?
+
+My name is Lorenna Caiaffa, I’m 27 years old and I’m constantly growing in the technology field.
+
+After many attempts, I finally found my way into tech and discovered a path that truly makes sense to me. Today, I move forward with more clarity, purpose, and a strong desire to learn every day.
+
+I’m passionate about continuous learning and the growth process. I’ve learned how to research, look for answers, and respect my own pace, which has brought me more confidence in my development.
+
+Thanks for stopping by ♡
+
 
 ## My Social Networks ♡
 
@@ -25,6 +33,12 @@ I'm a technology student and I want to be better every day!
 ## Stats Card ♡
 
 [![Lorenna's stats](https://github-readme-stats-fast.vercel.app/api?username=lorennacaiaffa&show_icons=true&theme=tokyonight)](https://github.com/lorennacaiaffa)
+
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lorennacaiaffa&layout=compact&theme=tokyonight&langs_count=20)](https://github.com/lorennacaiaffa)
+
+
+
+
 
 
 
