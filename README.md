@@ -3,7 +3,7 @@
 
 # Thanks for visiting! Welcome ♡
 
-👾 Hello! Is everything ok? My name's Lorenna Caiaffa, I'm 26 years old and I'm working to achieve my goals and dreams! 
+👾 Hello! Is everything ok? My name's Lorenna Caiaffa, I'm 27 years old and I'm working to achieve my goals and dreams! 
 I'm a technology student and I want to be better every day!
 
 ## My Social Networks ♡
@@ -19,7 +19,6 @@ I'm a technology student and I want to be better every day!
 ## Stat Card ♡
 
 [![Lorenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorennacaiaffa)](https://github.com/lorennacaiaffa/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorennacaiaffa&langs_count=8&show_icons=true&theme=tokyonight)]
  
  
 
