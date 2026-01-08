@@ -18,8 +18,8 @@ I'm a technology student and I want to be better every day!
 
 ## Stat Card ♡
 
-![Lorenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorennacaiaffa&show_icons=true&theme=tokyonight)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorennacaiaffa&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Lorenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorennacaiaffa_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorennacaiaffa&langs_count=8&show_icons=true&theme=tokyonight)]
  
  
 
